@@ -1,10 +1,3 @@
-//
-//  21_merge_two_sorted_linked_lists.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 30.06.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

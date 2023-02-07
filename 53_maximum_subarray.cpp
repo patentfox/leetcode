@@ -1,10 +1,3 @@
-//
-//  53_maximum_subarray.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 01.07.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

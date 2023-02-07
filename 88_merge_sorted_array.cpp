@@ -1,11 +1,3 @@
-//
-//  88_merge_sorted_array.cpp
-//  Leetcode
-//  https://leetcode.com/problems/merge-sorted-array/
-//
-//  Created by Kaustubh Bansal on 07.02.22.
-//
-
 #include <algorithm>
 #include <cmath>
 #include <iostream>

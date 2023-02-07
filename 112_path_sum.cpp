@@ -1,9 +1,4 @@
-//
-//  112_path_sum.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 15.02.22.
-//
+
 
 #include <algorithm>
 #include <cmath>

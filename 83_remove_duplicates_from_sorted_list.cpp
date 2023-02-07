@@ -1,9 +1,4 @@
-//
-//  83_remove_duplicates_from_sorted_list.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 02.07.21.
-//
+
 
 
 struct ListNode {

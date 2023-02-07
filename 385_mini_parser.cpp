@@ -1,9 +1,4 @@
-//
-//  385_mini_parser.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 16.02.22.
-//
+
 
 #include <algorithm>
 #include <any>

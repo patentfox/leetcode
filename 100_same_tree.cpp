@@ -1,9 +1,4 @@
-//
-//  same_tree.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 08.02.22.
-//
+
 
 #include <algorithm>
 #include <cmath>

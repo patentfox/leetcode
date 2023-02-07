@@ -1,10 +1,3 @@
-//
-//  58_length_of_last_word.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 01.07.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

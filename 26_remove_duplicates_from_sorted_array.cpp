@@ -1,10 +1,3 @@
-//
-//  26_remove_duplicates_from_sorted_array.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 30.06.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

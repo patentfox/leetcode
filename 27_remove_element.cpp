@@ -1,10 +1,3 @@
-//
-//  27_remove_element.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 30.06.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

@@ -1,9 +1,4 @@
-//
-//  104_maximum_depth_of_binary_tree.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 08.02.22.
-//
+
 #include <algorithm>
 #include <cmath>
 #include <iostream>

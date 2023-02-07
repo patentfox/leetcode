@@ -1,9 +1,4 @@
-//
-//  110_balanced_binary_tree.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 14.02.22.
-//
+
 
 #include <algorithm>
 #include <cmath>

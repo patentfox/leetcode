@@ -1,10 +1,3 @@
-//
-//  13_roman_to_integer.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 29.06.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

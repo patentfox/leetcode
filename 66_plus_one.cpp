@@ -1,10 +1,3 @@
-//
-//  66_plus_one.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 02.07.21.
-//
-
 #include <iostream>
 #include <cmath>
 #include <string>

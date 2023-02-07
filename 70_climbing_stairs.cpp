@@ -1,9 +1,4 @@
-//
-//  70_climbing_stairs.cpp
-//  Leetcode
-//
-//  Created by Kaustubh Bansal on 02.07.21.
-//
+
 
 #include <iostream>
 #include <cmath>
