@@ -1,5 +1,6 @@
+// https://leetcode.com/problems/valid-parentheses/
+
 #include <iostream>
-#include <cmath>
 #include <string>
 #include <vector>
 #include <stack>
